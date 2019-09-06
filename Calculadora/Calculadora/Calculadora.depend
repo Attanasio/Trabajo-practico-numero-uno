@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1567749748 source:c:\users\pilar\desktop\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567749239 source:c:\users\pilar\desktop\calculadora\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
