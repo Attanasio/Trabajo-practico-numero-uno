@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1567749748 source:c:\users\pilar\desktop\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1567749239 source:c:\users\pilar\desktop\calculadora\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1567811831 source:c:\users\alumno\desktop\trabajo-practico-numero-uno-master\calculadora\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"../Funciones/Funciones.h"
+
+1567810859 source:c:\users\alumno\desktop\trabajo-practico-numero-uno-master\calculadora\funciones\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1567811706 c:\users\alumno\desktop\trabajo-practico-numero-uno-master\calculadora\funciones\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
